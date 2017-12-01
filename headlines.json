@@ -1,0 +1,16 @@
+[
+    {
+        "name"  : "Hacker News",
+        "icon"  : "https://news.ycombinator.com/favicon.ico",
+        "base_url" : "http://news.ycombinator.com",
+        "url"   : "https://news.ycombinator.com/",
+        "selector": ".title>a"
+    },
+    {
+        "name"  : "V2EX",
+        "icon"  : "https://v2ex.assets.uxengine.net/site/logo@2x.png",
+        "base_url" : "https://www.v2ex.com",
+        "url"   : "https://www.v2ex.com/?tab=hot",
+        "selector": "span.item_title > a"
+    }
+]
