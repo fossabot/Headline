@@ -15,3 +15,10 @@ nbproject
 .sass-cache
 .idea
 .dat*.*
+/Gemfile.lock
+/provisioning
+/resources/fontawesome-webfont.ttf
+/resources/fontawesome.plist
+/resources/Settings.bundle/
+/vendor/Pods/
+/ib.xcodeproj/
