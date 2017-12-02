@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Lax/Headline.svg?branch=devel)](https://travis-ci.org/Lax/Headline)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLax%2FHeadline.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLax%2FHeadline?ref=badge_shield)
 
 # Minimum Requirements #
