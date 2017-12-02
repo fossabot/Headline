@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rake'
 gem 'motion-provisioning'
 gem 'motion-acknowledgements', github: 'Lax/motion-acknowledgements'
-gem 'motion-settings-bundle'
+gem 'motion-settings-bundle', github: 'picapica/motion-settings-bundle'
 gem 'motion-cocoapods'
 gem 'ib'
 
