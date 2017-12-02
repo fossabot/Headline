@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Lax/Headline.svg?branch=devel)](https://travis-ci.org/Lax/Headline)
+
 # Minimum Requirements #
 
 The minimum requirements to use this template are XCode 9 and
