@@ -43,6 +43,10 @@ Motion::Project::App.setup do |app|
 
   app.info_plist['UILaunchStoryboardName'] = 'Launch Screen'
 
+  app.pods do
+    pod "AFNetworking"
+  end
+
   provisioning!(app)
 end
 
