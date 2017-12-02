@@ -39,6 +39,8 @@ In your `Rakefile`, set the following values:
 
 ```ruby
 #This is only an example, the location where you store your provisioning profiles is at your discretion.
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLax%2FHeadline.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLax%2FHeadline?ref=badge_shield)
+
 app.codesign_certificate = "iPhone Distribution: xxxxx" #This is only an example, you certificate name may be different.
 
 #This is only an example, the location where you store your provisioning profiles is at your discretion.
@@ -109,3 +111,7 @@ popd
 ```
 
 For more information about Asset Catalogs, refer to this link: https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_ref-Asset_Catalog_Format/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLax%2FHeadline.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLax%2FHeadline?ref=badge_large)
