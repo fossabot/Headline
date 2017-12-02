@@ -17,3 +17,5 @@ before_install:
   - (ruby --version)
 script:
   - bundle exec rake clean:all pod:install spec
+notifications:
+  webhooks: https://app.fossa.io/hooks/travisci
